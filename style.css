@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-album{
+    color: white;
+    font-size: 20px;
+}
+.nav-contact{
+    margin-left: 155px;
+}
+.nav-contact a{
+    color: white;
+}
+.header-text{
+    margin-top: 9%;
+}
+.row{
+    margin-top: 180px;
+}
+.card2 img{
+    height: 235px;
+}
+.btn-outline-primary{
+    color: #6c757d;
+    border: 1px solid #6c757d;
+}
+.text-muted{
+    margin-top: 50px;
+}
